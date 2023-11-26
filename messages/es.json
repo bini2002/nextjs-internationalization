@@ -1,0 +1,24 @@
+{
+  "Navbar": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "Home": {
+    "title": "Bienvenido a Hyperce: Tu socio en suites de comercio electrónico",
+    "content": "Aprovecha la oportunidad para elevar tu negocio a nuevas alturas con nuestras plataformas de comercio electrónico futuristas y soluciones de comercio electrónico impulsadas por inteligencia artificial."
+  },
+  "About": {
+    "title": "Sobre nosotros",
+    "content": "En Hyperce, damos forma a soluciones de suites de comercio electrónico para satisfacer tus necesidades únicas. Con servicios de primera categoría que ofrecemos, puedes centrarte en la estrategia de tu negocio mientras nosotros nos ocupamos de los detalles técnicos. Permítenos ser tu socio de confianza en la creación de una tienda online exitosa. Nuestro equipo de expertos está dedicado a brindarte las mejores soluciones de comercio electrónico y relacionadas, adaptadas a tus requisitos. Asóciate con nosotros para hacer que tu negocio en línea prospere."
+  },
+  "Services": {
+    "title": "Nuestros Servicios",
+    "content": "Este es el contenido para la página de Servicios."
+  },
+  "Contact": {
+    "title": "Contáctanos",
+    "content": "Este es el contenido para la página de Contacto."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "Home": {
+    "title": "Welcome to Hyperce - Your Ecommerce Suite Partner",
+    "content": "Take the opportunity to elevate your business to new heights with our futuristic ecommerce platforms and AI-powered ecommerce solutions."
+  },
+  "About": {
+    "title": "About us",
+    "content": "At hyperce, we shape ecommerce suite solutions to meet your unique needs. With top-notch services we provide, you can focus on your business strategy while we handle the technical details. Let us be your trusted partner in creating a successful online store. Our team of experts is dedicated to providing you with the best ecommerce and related solutions, tailored to your requirements. Partner with us to make your online business thrive."
+  },
+  "Services": {
+    "title": "Our Services",
+    "content": "This is the content for the Services page."
+  },
+  "Contact": {
+    "title": "Contact us",
+    "content": "This is the content for the Contact page."
+  }
+}
